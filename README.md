@@ -1,1 +1,1 @@
-![Example Image](place.jpg)
+![Example Image](Place.jpg)
